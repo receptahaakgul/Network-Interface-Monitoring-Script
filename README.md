@@ -60,7 +60,7 @@ A Python script for monitoring network interfaces and saving data to a SQLite da
 - `--tx_pocket` : Save TX packet count.
 - `--tx_error` : Save TX error count.
 - `--interval <seconds>` : Set the monitoring interval in seconds.
-- `--yardim` : Show help message.
+- `--help` : Show help message.
 
 ### Example
 
